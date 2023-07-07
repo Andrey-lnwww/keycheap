@@ -2175,6 +2175,9 @@ body.touch .arrow {
 .review__image {
   min-width: 4rem;
   min-height: 4rem;
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+  justify-self: flex-start;
 }
 
 .review__header {
@@ -2221,7 +2224,7 @@ body.touch .arrow {
   font-weight: 400;
 }
 
-.product__container {
+.product__breadcrumbs {
   padding-top: 2.5rem;
 }
 
