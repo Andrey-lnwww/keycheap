@@ -6,7 +6,7 @@
 	<meta charset="UTF-8">
 	<meta name="format-detection" content="telephone=no">
 	<!-- <style>body{opacity: 0;}</style> -->
-	<link rel="stylesheet" href="css/style.min.css?_v=20230707140919">
+	<link rel="stylesheet" href="css/style.min.css?_v=20230708153144">
 	<link rel="shortcut icon" href="favicon.ico">
 	<!-- <meta name="robots" content="noindex, nofollow"> -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,18 +30,44 @@
 					<div class="header__services services">
 						<ul class="services__list list-reset">
 							<li class="services__item">
-								<button class="services__goods btn-reset services__btn" type="button" aria-label="Все товары">Все
-									товары</button>
+								<button class="services__goods btn-reset services__btn svg-item" type="button" aria-label="Все товары">
+									<span class="svg-item__wrapper">
+										<svg class="svg-item__icon">
+											<use xlink:href="img/icons/icons.svg#burger"></use>
+										</svg>
+									</span>
+									<span class="services__btn-text">Все товары</span>
+								</button>
 							</li>
 							<li class="services__item">
-								<button class="services__mail btn-reset services__btn" type="button" aria-label="Написать нам">Написать
-									нам</button>
+								<button class="services__mail btn-reset services__btn svg-item" type="button" aria-label="Написать нам">
+									<span class="svg-item__wrapper">
+										<svg class="svg-item__icon">
+											<use xlink:href="img/icons/icons.svg#mail"></use>
+										</svg>
+									</span>
+									<span class="services__btn-text">Написать нам</span>
+								</button>
 							</li>
 							<li class="services__item">
-								<button class="services__search btn-reset services__btn" type="button" aria-label="Поиск">Поиск</button>
+								<button class="services__search btn-reset services__btn svg-item" type="button" aria-label="Поиск">
+									<span class="svg-item__wrapper">
+										<svg class="svg-item__icon">
+											<use xlink:href="img/icons/icons.svg#search"></use>
+										</svg>
+									</span>
+									<span class="services__btn-text">Поиск</span>
+								</button>
 							</li>
 							<li class="services__item">
-								<button class="services__cart btn-reset services__btn" type="button" aria-label="Корзина">Корзина</button>
+								<button class="services__cart btn-reset services__btn svg-item" type="button" aria-label="Корзина">
+									<span class="svg-item__wrapper">
+										<svg class="svg-item__icon">
+											<use xlink:href="img/icons/icons.svg#basket"></use>
+										</svg>
+									</span>
+									<span class="services__btn-text">Корзина</span>
+								</button>
 							</li>
 						</ul>
 						<button class="btn-main btn btn-reset header__btn" type="button" aria-label="Запросить КП">Запросить
@@ -173,6 +199,8 @@ Project" width="140" height="122">
 				</div>
 
 			</section>
+
+			<!-- sprite -->
 			<section class="office">
 				<div class="office__container offset">
 					<div class="office__caption caption">
@@ -189,8 +217,20 @@ Project" width="140" height="122">
 							<div class="card__content">
 								<div class="card__top">
 									<div class="card__icons">
-										<span class="card__icon card__icon-heart"></span>
-										<span class="card__icon card__icon-eye"></span>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#heart"></use>
+												</svg>
+											</span>
+										</button>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#eye"></use>
+												</svg>
+											</span>
+										</button>
 									</div>
 									<span class="card__discount">Скидка -25%</span>
 								</div>
@@ -210,8 +250,20 @@ Project" width="140" height="122">
 							<div class="card__content">
 								<div class="card__top">
 									<div class="card__icons">
-										<span class="card__icon card__icon-heart"></span>
-										<span class="card__icon card__icon-eye"></span>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#heart"></use>
+												</svg>
+											</span>
+										</button>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#eye"></use>
+												</svg>
+											</span>
+										</button>
 									</div>
 									<span class="card__discount">Скидка -25%</span>
 								</div>
@@ -231,8 +283,22 @@ Project" width="140" height="122">
 							<div class="card__content">
 								<div class="card__top">
 									<div class="card__icons">
-										<span class="card__icon card__icon-heart"></span>
-										<span class="card__icon card__icon-eye"></span>
+										<button type="button" class="card__icon card__icon-heart btn-reset">
+											<span class="card__icon card__icon-heart svg-item">
+												<span class="svg-item__wrapper">
+													<svg class="svg-item__icon">
+														<use xlink:href="img/icons/icons.svg#heart"></use>
+													</svg>
+												</span>
+											</span>
+										</button>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#eye"></use>
+												</svg>
+											</span>
+										</button>
 									</div>
 									<span class="card__discount">Скидка -25%</span>
 								</div>
@@ -252,8 +318,20 @@ Project" width="140" height="122">
 							<div class="card__content">
 								<div class="card__top">
 									<div class="card__icons">
-										<span class="card__icon card__icon-heart"></span>
-										<span class="card__icon card__icon-eye"></span>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#heart"></use>
+												</svg>
+											</span>
+										</button>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#eye"></use>
+												</svg>
+											</span>
+										</button>
 									</div>
 									<span class="card__discount">Скидка -25%</span>
 								</div>
@@ -273,8 +351,20 @@ Project" width="140" height="122">
 							<div class="card__content">
 								<div class="card__top">
 									<div class="card__icons">
-										<span class="card__icon card__icon-heart"></span>
-										<span class="card__icon card__icon-eye"></span>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#heart"></use>
+												</svg>
+											</span>
+										</button>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#eye"></use>
+												</svg>
+											</span>
+										</button>
 									</div>
 									<span class="card__discount">Скидка -25%</span>
 								</div>
@@ -294,8 +384,20 @@ Project" width="140" height="122">
 							<div class="card__content">
 								<div class="card__top">
 									<div class="card__icons">
-										<span class="card__icon card__icon-heart"></span>
-										<span class="card__icon card__icon-eye"></span>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#heart"></use>
+												</svg>
+											</span>
+										</button>
+										<button type="button" class="card__icon card__icon-heart svg-item btn-reset">
+											<span class="svg-item__wrapper">
+												<svg class="svg-item__icon">
+													<use xlink:href="img/icons/icons.svg#eye"></use>
+												</svg>
+											</span>
+										</button>
 									</div>
 									<span class="card__discount">Скидка -25%</span>
 								</div>
@@ -867,7 +969,7 @@ Project" width="140" height="122">
 		</div>
 	</div>
 </div> -->
-	<script src="js/app.min.js?_v=20230707140919"></script>
+	<script src="js/app.min.js?_v=20230708153144"></script>
 </body>
 
 </html>

@@ -1,0 +1,160 @@
+<svg style="display: none;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol viewBox="0 0 16 16" id="arrow-drop-down" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#aclip0_26_2578)">
+<path d="M4.66663 6.66675L7.99996 10.0001L11.3333 6.66675H4.66663Z"/>
+</g>
+<defs>
+<clipPath id="aclip0_26_2578">
+<rect width="16" height="16"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 16 16" id="arrow-drop-right" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#bclip0_26_2575)">
+<path d="M6.66663 11.3333L9.99996 7.99992L6.66663 4.66659V11.3333Z"/>
+</g>
+<defs>
+<clipPath id="bclip0_26_2575">
+<rect width="16" height="16" transform="matrix(0 -1 1 0 0 16)"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="basket" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#dclip0_24_1900)">
+<path d="M15.55 13C16.3 13 16.96 12.59 17.3 11.97L20.88 5.48C21.25 4.82 20.77 4 20.01 4H5.21L4.27 2H1V4H3L6.6 11.59L5.25 14.03C4.52 15.37 5.48 17 7 17H19V15H7L8.1 13H15.55ZM6.16 6H18.31L15.55 11H8.53L6.16 6ZM7 18C5.9 18 5.01 18.9 5.01 20C5.01 21.1 5.9 22 7 22C8.1 22 9 21.1 9 20C9 18.9 8.1 18 7 18ZM17 18C15.9 18 15.01 18.9 15.01 20C15.01 21.1 15.9 22 17 22C18.1 22 19 21.1 19 20C19 18.9 18.1 18 17 18Z"/>
+</g>
+<defs>
+<clipPath id="dclip0_24_1900">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="basket-full" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#cclip0_26_2609)">
+<path d="M15.55 13C16.3 13 16.96 12.59 17.3 11.97L20.88 5.48C21.25 4.82 20.77 4 20.01 4H5.21L4.27 2H1V4H3L6.6 11.59L5.25 14.03C4.52 15.37 5.48 17 7 17H19V15H7L8.1 13H15.55ZM6.16 6H18.31L15.55 11H8.53L6.16 6ZM7 18C5.9 18 5.01 18.9 5.01 20C5.01 21.1 5.9 22 7 22C8.1 22 9 21.1 9 20C9 18.9 8.1 18 7 18ZM17 18C15.9 18 15.01 18.9 15.01 20C15.01 21.1 15.9 22 17 22C18.1 22 19 21.1 19 20C19 18.9 18.1 18 17 18Z"/>
+<rect x="12" width="12" height="12" rx="6"/>
+<path d="M16.344 3.72V9H15.24V4.968L14.096 5.704L13.592 4.88L15.336 3.72H16.344ZM18.2806 4.28C18.6272 3.84267 19.1392 3.624 19.8166 3.624C20.4939 3.624 21.0032 3.84267 21.3446 4.28C21.6912 4.71733 21.8646 5.42133 21.8646 6.392C21.8646 7.35733 21.6939 8.05067 21.3526 8.472C21.0112 8.888 20.4992 9.096 19.8166 9.096C19.1339 9.096 18.6219 8.888 18.2806 8.472C17.9392 8.05067 17.7686 7.35733 17.7686 6.392C17.7686 5.42133 17.9392 4.71733 18.2806 4.28ZM20.7286 6.368C20.7286 5.70667 20.6592 5.24533 20.5206 4.984C20.3819 4.71733 20.1472 4.584 19.8166 4.584C19.4912 4.584 19.2566 4.71733 19.1126 4.984C18.9739 5.25067 18.9046 5.712 18.9046 6.368C18.9046 7.024 18.9766 7.48267 19.1206 7.744C19.2646 8.00533 19.4992 8.136 19.8246 8.136C20.1499 8.136 20.3819 8.00533 20.5206 7.744C20.6592 7.48267 20.7286 7.024 20.7286 6.368Z"/>
+</g>
+<defs>
+<clipPath id="cclip0_26_2609">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="burger" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#eclip0_24_1891)">
+<path d="M3 18H21V16H3V18ZM3 13H21V11H3V13ZM3 6V8H21V6H3Z"/>
+</g>
+<defs>
+<clipPath id="eclip0_24_1891">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="eye" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#fclip0_24_1906)">
+<path d="M12 6.5C15.79 6.5 19.17 8.63 20.82 12C19.17 15.37 15.8 17.5 12 17.5C8.2 17.5 4.83 15.37 3.18 12C4.83 8.63 8.21 6.5 12 6.5ZM12 4.5C7 4.5 2.73 7.61 1 12C2.73 16.39 7 19.5 12 19.5C17 19.5 21.27 16.39 23 12C21.27 7.61 17 4.5 12 4.5ZM12 9.5C13.38 9.5 14.5 10.62 14.5 12C14.5 13.38 13.38 14.5 12 14.5C10.62 14.5 9.5 13.38 9.5 12C9.5 10.62 10.62 9.5 12 9.5ZM12 7.5C9.52 7.5 7.5 9.52 7.5 12C7.5 14.48 9.52 16.5 12 16.5C14.48 16.5 16.5 14.48 16.5 12C16.5 9.52 14.48 7.5 12 7.5Z"/>
+</g>
+<defs>
+<clipPath id="fclip0_24_1906">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="heart" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#hclip0_24_1903)">
+<path d="M16.5 3C14.76 3 13.09 3.81 12 5.09C10.91 3.81 9.24 3 7.5 3C4.42 3 2 5.42 2 8.5C2 12.28 5.4 15.36 10.55 20.04L12 21.35L13.45 20.03C18.6 15.36 22 12.28 22 8.5C22 5.42 19.58 3 16.5 3ZM12.1 18.55L12 18.65L11.9 18.55C7.14 14.24 4 11.39 4 8.5C4 6.5 5.5 5 7.5 5C9.04 5 10.54 5.99 11.07 7.36H12.94C13.46 5.99 14.96 5 16.5 5C18.5 5 20 6.5 20 8.5C20 11.39 16.86 14.24 12.1 18.55Z"/>
+</g>
+<defs>
+<clipPath id="hclip0_24_1903">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="heart-red" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#gclip0_26_2328)">
+<path d="M12 21.35L10.55 20.03C5.4 15.36 2 12.28 2 8.5C2 5.42 4.42 3 7.5 3C9.24 3 10.91 3.81 12 5.09C13.09 3.81 14.76 3 16.5 3C19.58 3 22 5.42 22 8.5C22 12.28 18.6 15.36 13.45 20.04L12 21.35Z"/>
+</g>
+<defs>
+<clipPath id="gclip0_26_2328">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="mail" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#iclip0_24_1894)">
+<path d="M22 6C22 4.9 21.1 4 20 4H4C2.9 4 2 4.9 2 6V18C2 19.1 2.9 20 4 20H20C21.1 20 22 19.1 22 18V6ZM20 6L12 11L4 6H20ZM20 18H4V8L12 13L20 8V18Z"/>
+</g>
+<defs>
+<clipPath id="iclip0_24_1894">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 16 16" id="minus" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="16"/>
+<defs>
+<pattern id="jpattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#jimage0_24_1914" transform="scale(0.0416667)"/>
+</pattern>
+<image id="jimage0_24_1914" width="24" height="24" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIUlEQVR4nGNgGAWjYBSMApLBfyrhgbNgFIyCUTAKGDABAOkcI91xODUvAAAAAElFTkSuQmCC"/>
+</defs>
+</symbol><symbol viewBox="0 0 16 16" id="plus" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="16"/>
+<defs>
+<pattern id="kpattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#kimage0_24_1915" transform="scale(0.0416667)"/>
+</pattern>
+<image id="kimage0_24_1915" width="24" height="24" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAANElEQVR4nGNgGAVUBv+hmGbg/6gFhMD/0SCieRD9pxIeOAsIgf+jqYgQ+D8aRMM/iEYgAACwS0O9h1hB4QAAAABJRU5ErkJggg=="/>
+</defs>
+</symbol><symbol viewBox="0 0 16 17" id="product-arrow" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#lclip0_24_1625)">
+<path d="M5.72668 11.56L8.78002 8.5L5.72668 5.44L6.66668 4.5L10.6667 8.5L6.66668 12.5L5.72668 11.56Z"/>
+</g>
+<defs>
+<clipPath id="lclip0_24_1625">
+<rect width="16" height="16" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="search" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#mclip0_24_1897)">
+<path d="M15.5 14H14.71L14.43 13.73C15.41 12.59 16 11.11 16 9.5C16 5.91 13.09 3 9.5 3C5.91 3 3 5.91 3 9.5C3 13.09 5.91 16 9.5 16C11.11 16 12.59 15.41 13.73 14.43L14 14.71V15.5L19 20.49L20.49 19L15.5 14ZM9.5 14C7.01 14 5 11.99 5 9.5C5 7.01 7.01 5 9.5 5C11.99 5 14 7.01 14 9.5C14 11.99 11.99 14 9.5 14Z"/>
+</g>
+<defs>
+<clipPath id="mclip0_24_1897">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 8 12" id="slider-arrow" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.590027 10.59L5.17003 6L0.590027 1.41L2.00003 0L8.00003 6L2.00003 12L0.590027 10.59Z"/>
+</symbol><symbol viewBox="0 0 8 12" id="slider-arrow-white" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.589966 10.59L5.16997 6L0.589966 1.41L1.99997 0L7.99997 6L1.99997 12L0.589966 10.59Z"/>
+</symbol><symbol viewBox="0 0 16 16" id="star" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#qclip0_26_2335)">
+<path d="M8.00004 11.5133L12.12 13.9999L11.0267 9.31325L14.6667 6.15992L9.87337 5.75325L8.00004 1.33325L6.12671 5.75325L1.33337 6.15992L4.97337 9.31325L3.88004 13.9999L8.00004 11.5133Z"/>
+</g>
+<defs>
+<clipPath id="qclip0_26_2335">
+<rect width="16" height="16"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 16 16" id="star-gold" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#pclip0_26_2331)">
+<path d="M8.00004 11.5133L12.12 13.9999L11.0267 9.31325L14.6667 6.15992L9.87337 5.75325L8.00004 1.33325L6.12671 5.75325L1.33337 6.15992L4.97337 9.31325L3.88004 13.9999L8.00004 11.5133Z"/>
+</g>
+<defs>
+<clipPath id="pclip0_26_2331">
+<rect width="16" height="16"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="telegram" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.5525 2.99691C19.3117 3.01443 19.0754 3.07091 18.8527 3.16416H18.8497C18.636 3.24891 17.6197 3.67641 16.0747 4.32441L10.5382 6.65616C6.56547 8.32866 2.66022 9.97566 2.66022 9.97566L2.70672 9.95766C2.70672 9.95766 2.43747 10.0462 2.15622 10.2389C1.98246 10.3495 1.83295 10.4941 1.71672 10.6642C1.57872 10.8667 1.46772 11.1764 1.50897 11.4967C1.57647 12.0382 1.92747 12.3629 2.17947 12.5422C2.43447 12.7237 2.67747 12.8084 2.67747 12.8084H2.68347L6.34572 14.0422C6.50997 14.5694 7.46172 17.6984 7.69047 18.4192C7.82547 18.8497 7.95672 19.1189 8.12097 19.3244C8.20047 19.4294 8.29347 19.5172 8.40522 19.5877C8.46331 19.6215 8.52526 19.6481 8.58972 19.6672L8.55222 19.6582C8.56347 19.6612 8.57247 19.6702 8.58072 19.6732C8.61072 19.6814 8.63097 19.6844 8.66922 19.6904C9.24897 19.8659 9.71472 19.5059 9.71472 19.5059L9.74097 19.4849L11.9032 17.5162L15.5272 20.2964L15.6097 20.3317C16.365 20.6632 17.13 20.4787 17.5342 20.1532C17.9415 19.8254 18.0997 19.4062 18.0997 19.4062L18.126 19.3387L20.9265 4.99191C21.006 4.63791 21.0262 4.30641 20.9385 3.98466C20.848 3.65903 20.639 3.37897 20.3527 3.19941C20.1123 3.05325 19.8335 2.9827 19.5525 2.99691ZM19.4767 4.53441C19.4737 4.58166 19.4827 4.57641 19.4617 4.66716V4.67541L16.6875 18.8729C16.6755 18.8932 16.6552 18.9374 16.5997 18.9817C16.5412 19.0282 16.4947 19.0574 16.251 18.9607L11.8185 15.5624L9.14097 18.0029L9.70347 14.4104L16.9455 7.66041C17.244 7.38291 17.1442 7.32441 17.1442 7.32441C17.1652 6.98391 16.6935 7.22466 16.6935 7.22466L7.56147 12.8819L7.55847 12.8669L3.18147 11.3932V11.3902L3.17022 11.3879C3.17789 11.3854 3.1854 11.3824 3.19272 11.3789L3.21672 11.3669L3.23997 11.3587C3.23997 11.3587 7.14822 9.71166 11.121 8.03916C13.11 7.20141 15.114 6.35766 16.6552 5.70666C17.5693 5.32191 18.4843 4.93941 19.4002 4.55916C19.4617 4.53516 19.4325 4.53441 19.4767 4.53441Z"/>
+</symbol><symbol viewBox="0 0 24 24" id="time" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#sclip0_24_1911)">
+<path d="M11.99 2C6.47 2 2 6.48 2 12C2 17.52 6.47 22 11.99 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 11.99 2ZM12 20C7.58 20 4 16.42 4 12C4 7.58 7.58 4 12 4C16.42 4 20 7.58 20 12C20 16.42 16.42 20 12 20ZM12.5 7H11V13L16.25 16.15L17 14.92L12.5 12.25V7Z"/>
+</g>
+<defs>
+<clipPath id="sclip0_24_1911">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol><symbol viewBox="0 0 24 24" id="&#x441;lose" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#tclip0_26_2458)">
+<path d="M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z"/>
+</g>
+<defs>
+<clipPath id="tclip0_26_2458">
+<rect width="24" height="24"/>
+</clipPath>
+</defs>
+</symbol></svg>
